@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f6f496bc.chunk.css",
+    "main.js": "/static/js/main.e8c6cc27.chunk.js",
+    "main.js.map": "/static/js/main.e8c6cc27.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b726ae66.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b726ae66.js.map",
+    "static/css/2.a879b9c7.chunk.css": "/static/css/2.a879b9c7.chunk.css",
+    "static/js/2.367e8f74.chunk.js": "/static/js/2.367e8f74.chunk.js",
+    "static/js/2.367e8f74.chunk.js.map": "/static/js/2.367e8f74.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a879b9c7.chunk.css.map": "/static/css/2.a879b9c7.chunk.css.map",
+    "static/css/main.f6f496bc.chunk.css.map": "/static/css/main.f6f496bc.chunk.css.map",
+    "static/js/2.367e8f74.chunk.js.LICENSE.txt": "/static/js/2.367e8f74.chunk.js.LICENSE.txt",
+    "static/media/LOGO4.ddcf7b8b.png": "/static/media/LOGO4.ddcf7b8b.png",
+    "static/media/Logo2.4bdaddb0.jpg": "/static/media/Logo2.4bdaddb0.jpg",
+    "static/media/app-store-badge-black.e2570fa1.svg": "/static/media/app-store-badge-black.e2570fa1.svg",
+    "static/media/bookingcare-cover-4.827fd54e.jpg": "/static/media/bookingcare-cover-4.827fd54e.jpg",
+    "static/media/cuc-cong-nghe-thong-tin-bo-y-te-2.67d28372.png": "/static/media/cuc-cong-nghe-thong-tin-bo-y-te-2.67d28372.png",
+    "static/media/styles.scss": "/static/media/fa-solid-900.d279d01b.svg",
+    "static/media/google-play-badge.fb83039f.svg": "/static/media/google-play-badge.fb83039f.svg",
+    "static/media/ictnews.ac92decd.png": "/static/media/ictnews.ac92decd.png",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
+    "static/media/suckhoedoisong.ef7a42a2.png": "/static/media/suckhoedoisong.ef7a42a2.png",
+    "static/media/vnexpress.70f57fb3.png": "/static/media/vnexpress.70f57fb3.png",
+    "static/media/vtv1.44154b3b.png": "/static/media/vtv1.44154b3b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b726ae66.js",
+    "static/css/2.a879b9c7.chunk.css",
+    "static/js/2.367e8f74.chunk.js",
+    "static/css/main.f6f496bc.chunk.css",
+    "static/js/main.e8c6cc27.chunk.js"
+  ]
+}
