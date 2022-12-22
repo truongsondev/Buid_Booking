@@ -459,7 +459,7 @@
         },
         ie = n(76),
         oe = n.n(ie),
-        le = oe.a.create({ baseURL: "https://be-tmdt.onrender.com" });
+        le = oe.a.create({ baseURL: "https://be-bookingcare.onrender.com" });
       le.interceptors.response.use(function (e) {
         return e.data;
       });
